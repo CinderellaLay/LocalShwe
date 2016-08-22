@@ -7,6 +7,7 @@ public class shweMain {
 		System.out.println("I am shwe");
 		System.out.println("How are you?");
 		System.out.println("Wow");
+		System.out.println("I am also shwe");
 	}
 
 }
